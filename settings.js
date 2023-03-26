@@ -14,14 +14,14 @@ global.APIs = {
 
 //buy apikey premium 0887435047326
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': '2TjTrwXp', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 20
 `
 // setting 
-global.firtsChat = true //send firts message to new user
-global.autoread = true // auto read message
+global.firtsChat = false //send firts message to new user
+global.autoread = false // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
