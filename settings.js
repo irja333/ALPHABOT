@@ -17,7 +17,7 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': '2TjTrwXp', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 20
+Sewa Bot chat owner 
 `
 // setting 
 global.firtsChat = false //send firts message to new user
