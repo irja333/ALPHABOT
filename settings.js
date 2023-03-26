@@ -23,7 +23,7 @@ edit sewabot di file settings.js line 20
 global.firtsChat = false //send firts message to new user
 global.autoread = false // auto read message
 global.antidelete = false // anti delete
-global.antiviewonce = true // anti view once
+global.antiviewonce = false // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
