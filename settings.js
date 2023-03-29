@@ -14,7 +14,7 @@ global.APIs = {
 
 //buy apikey premium 0887435047326
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': '2TjTrwXp', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'hiAxww5g', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 Sewa Bot chat owner 
