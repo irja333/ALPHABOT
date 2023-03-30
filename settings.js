@@ -6,7 +6,7 @@ const {
    spanyol
 } = require(`./language`)
 
-global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
@@ -14,7 +14,7 @@ global.APIs = {
 
 //buy apikey premium 0887435047326
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': '4V7y2ifv', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': '2TjTrwXp', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 Sewa Bot chat owner 
@@ -28,7 +28,7 @@ global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
-global.autolevelup = true
+global.autolevelup = false
 global.groupOnly = false //bot hanya bisa di gunakan dalam grup
 
 //language
@@ -45,7 +45,7 @@ global.ownername = "IRJA" //nama kalian
 global.myweb = "https://instagram.com/irja_official" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/DScuSZsDUnIGBa0w9s3TmA" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/DScuSZsDUnIGBa0w9s3TmA" //bebas
-global.email = "irja110c@gmail.com" //bebas
+global.email = "irja110@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6282275576880'] //premium user
